@@ -1,0 +1,6 @@
+*.d.ts
+scripts/**
+config/**
+.husky/**
+.eslintrc.js
+postcss.config.js
